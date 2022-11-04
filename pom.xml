@@ -28,12 +28,12 @@
             <url>http://maven.vaadin.com/vaadin-addons</url>
         </repository>
         <distributionManagement>
-    <snapshotRepository>
-        <id>snapshots</id>
-        <name>ip-172-31-39-231-snapshots</name>
-        <url>http://3.110.120.162:8081/artifactory/libs-snapshot-local</url>
-    </snapshotRepository>
-</distributionManagement>
+         <snapshotRepository>
+         <id>snapshots</id>
+         <name>ip-172-31-39-231-snapshots</name>
+         <url>http://3.110.120.162:8081/artifactory/libs-snapshot-local</url>
+         </snapshotRepository>
+          </distributionManagement>
         <repository>
             <id>vaadin-snapshots</id>
             <url>http://oss.sonatype.org/content/repositories/vaadin-snapshots/</url>
